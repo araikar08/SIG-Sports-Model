@@ -42,10 +42,10 @@ To use this project, you'll need to:
 - If you have issues with the download, try downloading files individually
 
 ## Project Setup
-[Add your project setup instructions here]
+Coming soon...
 
 ## Usage
-[Add your usage instructions here]
+Coming soon...
 
 ## License
-[Add your license information here] 
+Coming soon...
