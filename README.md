@@ -13,6 +13,20 @@ Due to size limitations, the data files are not stored in this repository. The d
   - `player_cluster_mapping.csv` (9.1 KB)
   - `player_rebound_analysis.csv` (28 KB)
   - `position_cluster_stats.csv` (298 B)
+  - `adv_boxscores.pkl` (5.0 MB)
+  - `basic_boxscores.pkl` (1.4 MB)
+  - `player_to_team.pkl` (7.4 KB)
+  - `game_idx.json` (3.5 KB)
+
+### Jupyter Notebooks
+The following notebooks are available in the Google Drive folder:
+- `Amitai.ipynb`
+- `Ethan-2.ipynb`
+- `Ethan.ipynb`
+- `Init.ipynb`
+- `Linear Model.ipynb`
+- `Notebook 1.ipynb`
+- `RollingAvg Backup.ipynb`
 
 ### Accessing the Data
 To use this project, you'll need to:
@@ -29,6 +43,17 @@ To use this project, you'll need to:
    ├── player_cluster_mapping.csv
    ├── player_rebound_analysis.csv
    ├── position_cluster_stats.csv
+   ├── adv_boxscores.pkl
+   ├── basic_boxscores.pkl
+   ├── player_to_team.pkl
+   ├── game_idx.json
+   ├── Amitai.ipynb
+   ├── Ethan-2.ipynb
+   ├── Ethan.ipynb
+   ├── Init.ipynb
+   ├── Linear Model.ipynb
+   ├── Notebook 1.ipynb
+   ├── RollingAvg Backup.ipynb
    └── opp_data/
        ├── bref_2023.csv
        ├── bref_opp_pg_2023.csv
@@ -40,6 +65,7 @@ To use this project, you'll need to:
 - You can download all files at once by selecting them all and using the "Download" option in Google Drive
 - For the `opp_data` folder, make sure to maintain the directory structure when extracting
 - If you have issues with the download, try downloading files individually
+- The notebooks are included in the same Google Drive folder for easy access
 
 ## Project Setup
 [Add your project setup instructions here]
